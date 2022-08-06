@@ -9,4 +9,4 @@ function getFactorial (value){
     console.log(result);
 }
 
-getFactorial(10);
+getFactorial(4);
