@@ -8,9 +8,9 @@ function minValue (values){
                 minimum = element;
             }
     }
-    return minimum;
+    console.log(minimum);
 
 }
 const array = [23, 11, 45, 37,7];
 const output = minValue(array);
-console.log(output);
+// console.log(output);
